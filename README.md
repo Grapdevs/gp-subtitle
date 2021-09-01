@@ -2,7 +2,7 @@
 Licence GPLv2 or later 
 As this plugin is open but as owner of plugin, you can contrubute but you can not copy the code or can not distribute this code on your name or on another plugin name.
 
-Reason behing this Worpdress plugin:
+Reason behind this Worpdress plugin:
 Tons of plugin are available in the market to add subtitles under pages or post, but all of them have code that 
 are not really needed and that directly affect your Wordpress website performance.
 
