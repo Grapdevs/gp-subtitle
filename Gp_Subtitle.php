@@ -7,7 +7,7 @@
  * Description: Enables the subtitle for pages and posts, you can easily manage the subtitle for pages or post.
  * Version:     1.0.1
  * Author:      Grapdevs
- * Author URI:  https://grapdevs.com
+ * Author URI:  https://grapdevs.com/plugin-subtitle
  * License:     GPLv2 or later
  * License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  * Author Email: contact@grapdevs.com 
@@ -32,7 +32,7 @@ class Gp_Subtitle {
 
     private static function gp_get_subtitle( $post_id ){
        
-        return esc_attr(get_post_meta( $post_id, 'subtitle', true ));
+        return (get_post_meta( $post_id, 'subtitle', true ));
     }
 
     /**
@@ -42,7 +42,7 @@ class Gp_Subtitle {
         global $post;
         ?>
         <div class="gp-subtitle-input" id="titlediv">
-            <input type="text" id="title"  name="subtitle" value="<?php echo ( self::gp_get_subtitle( $post->ID ))?>" placeholder="Your Subtitle Here" />
+            <input type="text" id="title"  name="subtitle" value="<?php echo esc_attr( self::gp_get_subtitle( $post->ID ))?>" placeholder="Your Subtitle Here" />
         </div>		
         <?php
     }
