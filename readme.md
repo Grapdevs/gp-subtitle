@@ -1,4 +1,6 @@
 # ADD SUBTITLE on Page or Post and control them.
+Download from Wordpress : https://wordpress.org/plugins/gp-subtitle-for-pages-and-posts/
+
 Licence GPLv2 or later 
 As this plugin is open but as owner of plugin, you can contribute but you can not copy the code or can not distribute this code on your name or on another plugin name.
 
