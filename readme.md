@@ -15,7 +15,7 @@ If you have any suggestion kindly let us know.
 
 You can mail your suggestion or can raise the new suggestion using github.
 <br>
-<b>Author mail</b>: <b>wp-contributions@gmail.com</b>
+<b>Author mail</b>: <b>wp-contributions@grapdevs.com</b>
 
 We still updating our Readme file.
 
