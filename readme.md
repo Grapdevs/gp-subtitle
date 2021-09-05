@@ -3,7 +3,7 @@ Download from Wordpress : https://wordpress.org/plugins/gp-subtitle-for-pages-an
 
 * No Classic editor require since V1.0.2
 * Work with custom post type since V1.0.2
-* 
+
 Licence GPLv2 or later 
 As this plugin is open but as owner of plugin, you can contribute but you can not copy the code or can not distribute this code on your name or on another plugin name.
 
