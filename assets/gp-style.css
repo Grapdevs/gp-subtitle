@@ -3,5 +3,6 @@
     margin-bottom:10px;
 }
 .gp-subtitle-input input{
-    background-color: #3582c408 !important;
+    border:none !important;
+    background-color: #f5efe0 !important
 }
