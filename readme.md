@@ -1,4 +1,4 @@
-# ADD SUBTITLE on Page or Post and control them.
+# ADD SUBTITLE on Page, Post  and custom posts/pages.
 Download from Wordpress : https://wordpress.org/plugins/gp-subtitle-for-pages-and-posts/
 
 Licence GPLv2 or later 
