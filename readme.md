@@ -15,9 +15,7 @@ Download from Wordpress : https://wordpress.org/plugins/gp-subtitle-for-pages-an
  If you are working with your custom code and you would like to fetch the subtitle, you can use this method with or without parameters.
 We will recommend you to pass $post_id(parameter), if you already have.
 
-> [[gp_subtitle]](#) or [[gp_subtitle id="YOUR POST/PAGE ID"]](#)
-
-We will recommend you to pass your post/page id 
+> [[gp_subtitle]](#) or [[gp_subtitle id="YOUR POST/PAGE ID"]](#) We will recommend you to pass your post/page id 
 if you already have one.
 ------
 * V1.0.1
