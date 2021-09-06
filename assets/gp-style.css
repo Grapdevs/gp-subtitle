@@ -6,3 +6,18 @@
     border:none !important;
     background-color: #f5efe0 !important
 }
+.gp_post_page_setting_section{
+    border:1px solid black;
+}
+#gp-subtitle-setting-form{
+    background: #2271b11a;
+    padding: 24px;
+}   
+
+#toplevel_page_gp-post-page img {
+    width: 20px;
+    margin-top: 2px;
+    -webkit-filter: grayscale(22%);
+    filter: grayscale(22%);
+    /* background: #fff; */
+}
