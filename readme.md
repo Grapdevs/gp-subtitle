@@ -1,20 +1,6 @@
 # ADD SUBTITLE on Page, Post  and custom posts/pages.
 Download from Wordpress : https://wordpress.org/plugins/gp-subtitle-for-pages-and-posts/
 
-=== Gp Subtitle for Post, Pages and Custom Type ===
-Contributors: Grapdevs,Rajneesh
-Donate link: https://liberapay.com/grapdevs/donate
-Tags: sub title for posts,sub title for pages, exteding wordpress pages and posts option
-Requires at least: 4.0
-Tested up to: 5.8
-Stable tag: 2.0.1
-Requires PHP: 5.4+
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
-Enables the subtitle for post, pages and custom type. Work with all editors like gutenberg, classic editor. You can easily manage the subtitle for pages or posts.
-
-== Description ==
 
 [NOW WORK WITH WOOCOMERCE & GUTENBERG](#)
 -----------------------------
